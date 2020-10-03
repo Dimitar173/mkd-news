@@ -1,0 +1,320 @@
+.navbar{
+    background-color: rgb(2, 6, 71);
+    padding: 1.3px;
+    
+}
+.doma{
+    color: rgb(182, 160, 160);
+    text-decoration: none;
+    font-style: inherit;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 55px;
+    
+}
+.kultura{
+    color: rgb(182, 160, 160);
+    text-decoration: none;
+    font-style: inherit;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 8px;
+}
+
+.ekonomija{
+    color: rgb(182, 160, 160);
+    text-decoration: none;
+    font-style: inherit;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+
+.sport{
+    color: rgb(182, 160, 160);
+    text-decoration: none;
+    font-style: inherit;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 13px;
+}
+
+.hronika{
+    color: rgb(182, 160, 160);
+    text-decoration: none;
+    font-style: inherit;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 16px;
+}
+
+.doma:hover{
+    color: rgb(109, 7, 75);
+}
+
+.kultura:hover{
+    color: rgb(109, 7, 75);
+}
+
+.ekonomija:hover{
+    color: rgb(109, 7, 75);
+}
+
+.sport:hover{
+    color: rgb(109, 7, 75);
+}
+
+.hronika:hover{
+    color: rgb(109, 7, 75);
+
+}
+
+.slika{
+    width: 70px;
+    height: 70px;
+    
+    
+    margin-top: -6px;
+
+}
+
+
+ul{
+
+    margin-top: -47px;
+}
+
+#container {
+margin-left: 350px;
+margin-top: 60px;
+
+
+
+}
+#container img{
+    width: 80%;
+    margin-left: -30px;
+    border: 3px solid #ccc;
+    background: #eee;
+    
+    padding: 15px 10px;
+}
+
+.popup{
+    
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    -o-transition: opacity 0.5s ease-in-out;
+     transition: opacity 0.5s ease-in-out;
+    
+}
+
+.popup:hover{
+    opacity:0.9;
+}
+
+
+ #container p{   
+     font-size: 21px;
+     margin-left: 30px;
+    
+ }
+
+
+#container a{
+    text-decoration: none;
+}
+
+#container a:hover{
+   opacity: 0.4;
+   color: black; 
+
+}
+
+#container a:visited{
+    color: blue
+}
+
+#vesti{
+
+    margin-left:15px;
+
+}
+
+#vesti a{
+    text-decoration: none;
+    
+}
+
+
+
+#vesti a:visited{
+    color:blue;
+}
+
+#vesti{
+    margin-top:60px;
+}
+
+#vesti img{
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    -o-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+   
+
+   
+    border: 3px solid #ccc;
+    background: #eee;
+    
+    padding: 15px 10px;
+}
+
+#vesti img:hover{
+    opacity: 0.8;
+}
+
+#vesti p:hover{
+    opacity: 0.5;
+    color: red;
+}
+
+#vesti p:visited {
+    color:blue;
+}
+
+
+.korona{
+    margin-left:523px;
+    margin-top: -315px;
+    
+}
+
+.korona p{
+    margin-top:15px;
+    margin-left:60px; 
+}
+
+.onlajn p{
+    margin-left: 63px;
+}
+
+.studenti{
+    margin-left:1030px;
+    margin-top: -315px;
+}
+
+.studenti p{
+    margin-left: 53px;
+}
+
+
+.uzas{
+    margin-top: -315px;
+    margin-left: 530px;
+}
+.uzas p{
+margin-left: 23px;
+}
+
+.hrvatska{
+    margin-top: 50px;
+}
+
+.hrvatska p{
+    margin-left: 70px;
+}
+
+
+.udarna-vest{
+
+    margin-top: 40px;
+    background-color: rgb(211, 247, 9);
+    padding: 0.012px;
+    border-radius: 30%;
+}
+
+.udarna-vest h2{
+    font-family: serif;
+    font-weight: inherit;
+    font-style: normal;
+    font-weight: bold;
+    margin-left:690px;
+    color: rgb(0, 0, 0);
+    
+}
+
+.vesti-mkd{
+    margin-top: 60px;
+    background-color: rgb(11, 194, 29);
+    padding: 0.012px;
+    border-radius: 30%;
+}
+
+.vesti-mkd h2{
+    font-family: serif;
+    font-weight: inherit;
+    font-style: normal;
+    font-weight: bold;
+    margin-left:690px;
+    color: rgb(0, 0, 0);
+}
+
+.vesti-balkan{
+    margin-top: 60px;
+    background-color: rgb(7, 202, 228);
+    padding: 0.012px;
+    border-radius: 30%;
+}
+
+.vesti-balkan h2{
+    font-family: serif;
+    font-weight: inherit;
+    font-style: normal;
+    font-weight: bold;
+    margin-left:690px;
+    color: rgb(0, 0, 0);
+}
+
+
+.vesti-svet{
+    margin-top: 60px;
+    background-color: rgb(255, 0, 0);
+    padding: 0.012px;
+    border: wheat;
+    border-radius: 30%;
+}
+
+
+.vesti-svet h2{
+    font-family: serif;
+    font-weight: inherit;
+    font-style: normal;
+    font-weight: bold;
+    margin-left:690px;
+    color: rgb(29, 2, 2);
+}
+
+.vojna {
+    margin-left: 530px;
+    margin-top: -315px;
+}
+
+.tramp{
+    margin-top: 50px;
+}
+
+.bih{
+    margin-left: 1030px;
+    margin-top: -315px;
+}
+
+.bih p{
+
+    margin-left: 80px;
+
+}
+.svet-korona{
+    margin-left: 1030px;
+    margin-top: -315px;
+}
